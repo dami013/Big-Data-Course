@@ -1,4 +1,4 @@
-# Big Data Course - Practical Guide
+# Big Data Course 2023 - Practical Guide
 
 ## Overview
 This course focuses on hands-on data analysis using real-world datasets, including the **World Happiness Report** and **COVID-19 data from the WHO**. You will learn how to clean, analyze, and visualize large datasets using Python and Big Data tools.
